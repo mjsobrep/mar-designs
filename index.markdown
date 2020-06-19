@@ -7,7 +7,7 @@ layout: home
 
 > If you know anyone has or works with a child with spastic cerebral palsy, we'd love to talk to you! Please send us an e-mail at **contact@mar-designs.com**.
 
-MAR Designs has developed a patient responsive wrist orthosis for the treatment of spasticity in children with cerebral palsy. This device improves wrist function while ensuring patient comfort by dynamically stretching the joint as the child is falling asleep using a specialized motorized system.
+MAR Orthotics has developed a patient responsive wrist orthosis for the treatment of spasticity in children with cerebral palsy. This device improves wrist function while ensuring patient comfort by dynamically stretching the joint as the child is falling asleep using a specialized motorized system.
 
 ## Who we are
 
