@@ -50,7 +50,7 @@ Penn has an incredible ecosystem to foster inovation and entrepenuriship. As we 
 After the Rothberg catalyzer, we knew that we had an exciting idea. But it still needed a lot of validation. Penn I-CORPS helped us to connect with health care providers and patients to better understand both the need and the business. 
 
 ### Venture Lab
-We joined the Penn Venture Lab to connect with the broader startup community at Penn. We were able to access resources to help us plan the business behind MAR. 
+We joined the Penn Venture Lab to connect with the broader startup community at Penn. We were able to access resources to help us plan the business behind MAR. We also joined VIP-C, a group of entrepreneurs interested in helping each other bring their startups to life. 
 
 
 ## Future Directions for Research
