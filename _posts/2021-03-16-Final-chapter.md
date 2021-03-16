@@ -30,7 +30,7 @@ With doctors as advisors and finishing up with a pitch competition, the Rothber 
 Take a look at our early prototype presented in the Rothberg Catalyzer:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wtVFKy-sPCQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Picutre of winning the Rothberg Catalyzer](https://i.imgur.com/FnRsItT.jpg)
+![Picture of winning the Rothberg Catalyzer](https://i.imgur.com/FnRsItT.jpg)
 
 
 ## Penn Wharton Startup Challenge: Engineers do Business
