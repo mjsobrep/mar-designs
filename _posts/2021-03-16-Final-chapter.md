@@ -8,8 +8,10 @@ summary: MAR Orthoics, after prototyping and customer feedback, is ending the ve
 ---
 # MAR Othotics - The Final Chapter
 
-The past year and a half working on MAR Orthotics, previously MAR Designs, has been a fantastic adventure. But after having explored the space, we have decided that it is time to close our venture. Ultimately, we think that while it is *extremely important* that people continue to innovate in the orthotics space, we are not the best suited to do so. The innovations needed in orthotics are still nascent and require significant academic and clinical research before commercialization. Even our simple prototypes of adding just one or two sensors to existing orthotics would require significant clinical validation before allowing us to begin to market a device and generate revenue, much less move towards profitably, which simply isn't in the cards for us as Ph.D. students. 
-Despite this, we want to communicate our journey and insights for the next would-be orthotics innovator and to help highlight how much room for innovation there is in the space. Please feel free to reach out to us personally (contacts at end) if you're interested to chat more about our attempt with MAR Orthotics or your next innovation :)
+The past year and a half working on MAR Orthotics, previously MAR Designs, has been a fantastic adventure. But after having explored the space, we have decided that it is time to close our venture. Ultimately, we think that while it is *extremely important* that people continue to innovate in the orthotics space, we are not the best suited to do so. The innovations needed in orthotics are still nascent and require significant academic and clinical research before commercialization. Even our simple prototypes of adding just one or two sensors to existing orthotics would require significant clinical validation. This is before we could bring a device to market, and generate revenue, much less profit, which simply isn't in the cards for us as Ph.D. students. 
+Despite this, we want to communicate our journey and insights for the next would-be orthotics innovator and to help highlight how much room for innovation there is in the space. 
+
+Please feel free to reach out to us personally (contacts at end) if you're interested in chatting more about our attempt with MAR Orthotics or your next innovation :)
 
 ## Seeing the Need for Innovation in Orthotics
 
@@ -64,12 +66,13 @@ We think embedding simple sensors would be useful in both clinical trials on the
 
 We also think the use of stress and strain sensors within orthoses would be interesting. These could help deepen our understanding of how the body is resisting the stretch in an orthotic over time. Finding the right sensors for this task and placing them properly is an open question.
 
-In general, the orthotics space and more broadly the rehab technology space has so much opportunity for innovation. We hope that more people will put their brains into improving these devices and tools. Fundamental questions need to be answered about the usage of orthoses, that isn't feasible for a small startup. But we believe that an academic lab working in this space would find rich questions to answer and exciting challenges to tackle. And then with new discoveries, it would be the right timetime to translate to the market. 
+In general, the orthotics space and more broadly the rehab technology space has so much opportunity for innovation. We hope that more people will put their brains into improving these devices and tools. Fundamental questions need to be answered about the usage of orthoses, that isn't feasible for a small startup. But we believe that an academic lab working in this space would find rich questions to answer and exciting challenges to tackle. And then with new discoveries, it would be the right time to introduce a new orthosis to the market. 
 
 ## Thanks
 A huge thanks for all of the people that helped us on our journey. The communities at Penn, the patients, parents, providers, judges, and others. We have learned a ton and had a great time. We hope that someone has seen our work and been moved to carry it forward. 
 
 Best,
+
 Michael, Ariella, Rebecca
 
 [mjsobrep@live.com](mailto:mjsobrep@live.com), [ariellamansfield@gmail.com](mailto:ariellamansfield@gmail.com), [rebecca.li@alum.mit.edu](mailto:rebecca.li@alum.mit.edu)
