@@ -15,7 +15,7 @@ Please feel free to reach out to us personally (contacts at end) if you're inter
 
 ## Seeing the Need for Innovation in Orthotics
 
-It all started with Michael, a rehabilitaiton roboticist, who working with children with cerebral palsy as part of his research. He saw from interacting with parents and children that the orthotics given as treatment for spastic cerebral palsy were uncomfortable. This led to fights in families, where children were in pain and had trouble sleeping with their orthotics, while parents were trying to help ensure the long-term health of their kids. Michael had tossed around ideas for a while, but never found the right one to pursue or the right time.
+It all started with Michael, a rehabilitation roboticist, who was working with children with cerebral palsy as part of his research. He saw from interacting with parents and children that the orthotics given as treatment for spastic cerebral palsy were uncomfortable. This led to fights in families, where children were in pain and had trouble sleeping with their orthotics, while parents were trying to help ensure the long-term health of their kids. Michael had tossed around ideas for a while, but never found the right one to pursue or the right time.
 
 <!---
 <> (Michael reached out to Ariella and Rebecca and we started brainstorming ways to help alleviate this problem...)
@@ -37,19 +37,19 @@ Take a look at our early prototype presented in the Rothberg Catalyzer:
 
 
 ## Penn Wharton Startup Challenge: Engineers do Business
-Fresh off the success of the Rothberg Catalyzer,  we wanted a deeper understanding the business aspect of our venture. The Wharton Startup Challenge allowed us to do just that. We prepared hard and delved into the nuances of the orthotics market. We got help from experts at Wharton and continued support from Penn Health-Tech to refine our ideas. 
+Fresh off the success of the Rothberg Catalyzer,  we wanted a deeper understanding of the business aspect of our venture. The Wharton Startup Challenge allowed us to do just that. We prepared hard and delved into the nuances of the orthotics market. We got help from experts at Wharton and continued support from Penn Health-Tech to refine our ideas. 
 
-At the culmination of this competition, we presented a pitch to judges with business, venture capital, and medical device experience. Thinking about the questions they asked about the marketplace and insurance landscape helped us gain a deeper understanding of the steps it takes to create a successful venture. We were honored to be awared the innovation award ($25K) for our work.
+At the culmination of this competition, we presented a pitch to judges with business, venture capital, and medical device experience. Thinking about their questions around the marketplace and insurance landscape helped us gain a deeper understanding of the steps it takes to create a successful venture. We were honored to be awarded the innovation award ($25K) for our work.
 
 [2020 Startup Challenge Finalists](https://entrepreneurship.wharton.upenn.edu/2020-finalists/)
 
 [Wharton News](https://news.wharton.upenn.edu/press-releases/2020/05/caring-for-our-furry-friends-my-virtual-veterinarian-wins-30000-perlman-grand-prize-in-virtual-startup-challenge/)
 
-## Learning in the Penn Entrepenuriship Ecosystem
-Penn has an incredible ecosystem to foster inovation and entrepenuriship. As we worked to develop MAR Orthotics, we were able to tap into multiple resources to help us learn and develop the venture. 
+## Learning in the Penn Entrepreneurship Ecosystem
+Penn has an incredible ecosystem to foster innovation and entrepreneurship. As we worked to develop MAR Orthotics, we were able to tap into multiple resources to help us learn and develop the venture. 
 
 ### Penn I-CORPS
-After the Rothberg catalyzer, we knew that we had an exciting idea. But it still needed a lot of validation. Penn I-CORPS helped us to connect with health care providers and patients to better understand both the need and the business. 
+After the Rothberg Catalyzer, we knew that we had an exciting idea. But it still needed a lot of validation. Penn I-CORPS helped us to connect with health care providers and patients to better understand both the need and the business. 
 
 ### Venture Lab
 We joined the Penn Venture Lab to connect with the broader startup community at Penn. We were able to access resources to help us plan the business behind MAR. We also joined VIP-C, a group of entrepreneurs interested in helping each other bring their startups to life. 
@@ -58,7 +58,7 @@ We joined the Penn Venture Lab to connect with the broader startup community at 
 ## Future Directions for Research
 Talking to clinicians and parents, we repeatedly heard that there is a need for more research into orthotics. There was a lack of clarity among clinicians as to when different orthotic tools are best and how well they work. Most clinicians did not have a clear idea of how high compliance with treatment is and we heard concerns about payment being rejected as a result. 
 
-We think embedding simple sensors would be useful in both clinical trials on the effectiveness and the use of orthotics and to track treatment in practice. For example, in the video below, we demonstrate an accelerometer that can be placed on the outside of a device to obtain data on movement (and from there determine usage). It would be relatively simple to miniturize such a device to be seemless with the orthosis.
+We think embedding simple sensors would be useful in both clinical trials on the effectiveness and the use of orthotics and to track treatment in practice. For example, in the video below, we demonstrate an accelerometer that can be placed on the outside of a device to obtain data on movement (and from there determine usage). It would be relatively simple to miniaturize such a device to be seamless with the orthosis.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NqD1LhIRMr0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
