@@ -6,7 +6,7 @@ categories: news
 image: rothberg_fullcolor_blacktext.png
 summary: MAR Orthoics, after prototyping and customer feedback, is ending the venture.
 ---
-# MAR Othotics - The Final Chapter
+# MAR Orthotics - The Final Chapter
 
 The past year and a half working on MAR Orthotics, previously MAR Designs, has been a fantastic adventure. But after having explored the space, we have decided that it is time to close our venture. Ultimately, we think that while it is *extremely important* that people continue to innovate in the orthotics space, we are not the best suited to do so. The innovations needed in orthotics are still nascent and require significant academic and clinical research before commercialization. Even our simple prototypes of adding just one or two sensors to existing orthotics would require significant clinical validation. This is before we could bring a device to market, and generate revenue, much less profit, which simply isn't in the cards for us as Ph.D. students. 
 Despite this, we want to communicate our journey and insights for the next would-be orthotics innovator and to help highlight how much room for innovation there is in the space. 
@@ -22,9 +22,9 @@ It all started with Michael, a rehabilitation roboticist, who was working with c
 --->
 
 ## Penn Health-Tech Rothberg Catalyzer: Prototypes and Surprise
-MAR Orthotics really began when Michael and Ariella decided to do something a bit outside of their research and join a hackathon, specifically the [Rothberg Catalyzer](https://www.catalyzeratpenn.com/), a medical device "makerthon" at the University of Pennsylvania. They threw around ideas for medical devices that they could design and Michael mentioned the challenges he had seen with orthotics. Ariella was sold, they would take up the challenge. But, they needed one more person. They both knew a world class maker who seemed like the perfect person to round out the team, Rebecca.
+MAR Orthotics really began when Michael and Ariella decided to do something a bit outside of their research and join a hackathon, specifically the [Rothberg Catalyzer](https://www.catalyzeratpenn.com/), a medical device "makerthon" at the University of Pennsylvania. They threw around ideas for medical devices that they could design, and Michael mentioned the challenges he had seen with orthotics. Ariella was sold, they would take up the challenge. But they needed one more person. They both knew a world class maker who seemed like the perfect person to round out the team, Rebecca.
 
-With doctors as advisors and culminating with a pitch competition, the Rothberg Catalyzer was the perfect playground for our ideas. By the end of the competition we came up with a simple design for a motorized orthotic. The premise of our idea was that a motor can be used to stretch a wrist in a slow, drawn out process, allowing a child to sleep more comfortably while dawning the device. After showcasing our prototype we won 1st place in the competition!
+With doctors as advisors and culminating with a pitch competition, the Rothberg Catalyzer was the perfect playground for our ideas. By the end of the competition we came up with a simple design for a motorized orthotic. The premise of our idea was that a motor can be used to stretch a wrist in a slow, drawn out process, allowing a child to sleep more comfortably while dawning the device. After showcasing our prototype, we won 1st place in the competition!
 
 [Penn Almanac: MAR Designs, SchistoSpot: Catalyzer Awards](https://almanac.upenn.edu/articles/mar-designs-schistospot-catalyzer-awards)
 
@@ -69,7 +69,7 @@ We also think the use of stress and strain sensors within orthoses would be inte
 In general, the orthotics space and more broadly the rehab technology space has so much opportunity for innovation. We hope that more people will put their brains into improving these devices and tools. Fundamental questions need to be answered about the usage of orthoses, that isn't feasible for a small startup. But we believe that an academic lab working in this space would find rich questions to answer and exciting challenges to tackle. And then with new discoveries, it would be the right time to introduce a new orthosis to the market. 
 
 ## Thanks
-A huge thanks for all of the people that helped us on our journey. The communities at Penn, the patients, parents, providers, judges, and others. We have learned a ton and had a great time. We hope that someone has seen our work and been moved to carry it forward. 
+A huge thanks to all the people that helped us on our journey, the communities at Penn, the patients, parents, providers, judges, and others. We have learned a ton and had a great time. We hope that someone has seen our work and been moved to carry it forward. 
 
 Best,
 
