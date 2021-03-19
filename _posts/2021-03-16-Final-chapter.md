@@ -3,7 +3,7 @@ layout: post
 title: "MAR Orthotics Final Chapter"
 data: 2021-03-16
 categories: news
-image: rothberg_fullcolor_blacktext.png
+image: mar-small-logo.png
 summary: MAR Orthoics, after prototyping and customer feedback, is ending the venture.
 ---
 # MAR Orthotics - The Final Chapter
