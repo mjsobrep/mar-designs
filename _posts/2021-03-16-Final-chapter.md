@@ -75,7 +75,7 @@ Best,
 
 Michael, Ariella, Rebecca
 
-[mjsobrep@live.com](mailto:mjsobrep@live.com), [ariellamansfield@gmail.com](mailto:ariellamansfield@gmail.com), [rebecca.li@alum.mit.edu](mailto:rebecca.li@alum.mit.edu)
+[mjsobrep@live.com](mailto:mjsobrep@live.com), [ariellamansfield@gmail.com](mailto:ariellamansfield@gmail.com), [rebecca.li@alum.mit.edu](mailto:make@rebecca.li)
 
 
 [Rothberg Catalyzer]: https://www.catalyzeratpenn.com/ "Rothberg Catalyzer"
